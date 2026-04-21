@@ -1,5 +1,6 @@
-for (let i = 1; i <= 20; ++i) {
-  console.log(i)
-};
 
+const str = "Jesus"
 
+for(let i = 0; i < str.length; ++i) {
+  console.log(str[i])
+}
